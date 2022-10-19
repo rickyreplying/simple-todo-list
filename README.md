@@ -28,6 +28,4 @@ npm run dev
 ```sh
 npm run build
 ```
-#� �s�i�m�p�l�e�-�t�o�d�o�-�l�i�s�t�
-�
-�
+
