@@ -1,19 +1,34 @@
 {
   "todos": [
     {
-      "title": "Lorem ipsum doloraAA",
-      "status": "Completed",
-      "id": 1
-    },
-    {
-      "title": "Task 2",
+      "title": "Belajar Udemy",
+      "description": "belajar belajar belajar belajar belajar belajar belajar ",
       "status": "On Progress",
-      "id": 2
+      "id": 3
     },
     {
-      "title": "asdasd",
+      "title": "Task Kedua",
+      "description": "belajar cuy",
       "status": "Completed",
-      "id": 3
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "Belajar Sama Max",
+      "status": "On Progress",
+      "description": "belajar vue"
+    },
+    {
+      "id": 6,
+      "title": "Belajar Javascript",
+      "status": "On Progress",
+      "description": "belajar asynchronous"
+    },
+    {
+      "id": 7,
+      "title": "Makan Tidur",
+      "status": "On Progress",
+      "description": "lorem ipsum dolor sit amet"
     }
   ]
 }
