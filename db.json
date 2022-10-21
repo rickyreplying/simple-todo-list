@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Lorem ipsum doloraAA",
+      "status": "Completed",
+      "id": 1
+    },
+    {
+      "title": "Task 2",
+      "status": "On Progress",
+      "id": 2
+    },
+    {
+      "title": "asdasd",
+      "status": "Completed",
+      "id": 3
+    }
+  ]
+}
